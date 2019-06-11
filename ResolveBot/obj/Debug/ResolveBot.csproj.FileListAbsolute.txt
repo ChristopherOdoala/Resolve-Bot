@@ -1,0 +1,88 @@
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Bot Application.dll.config
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Bot Application.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Bot Application.pdb
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Autofac.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Chronic.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Newtonsoft.Json.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.Web.Http.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Autofac.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Newtonsoft.Json.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.Web.Http.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\obj\Debug\Bot Application.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\obj\Debug\Bot Application.pdb
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\Swashbuckle.Core.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\bin\WebActivatorEx.dll
+C:\Users\Christopher\Desktop\ResolveBot\ResolveBot\obj\Debug\ResolveBot.csprojResolveAssemblyReference.cache
+C:\Repo\resolvebot\ResolveBot\bin\Bot Application.dll.config
+C:\Repo\resolvebot\ResolveBot\bin\Bot Application.dll
+C:\Repo\resolvebot\ResolveBot\bin\Bot Application.pdb
+C:\Repo\resolvebot\ResolveBot\bin\Autofac.dll
+C:\Repo\resolvebot\ResolveBot\bin\Chronic.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Bot.Builder.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Bot.Connector.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Repo\resolvebot\ResolveBot\bin\Newtonsoft.Json.dll
+C:\Repo\resolvebot\ResolveBot\bin\Swashbuckle.Core.dll
+C:\Repo\resolvebot\ResolveBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Repo\resolvebot\ResolveBot\bin\System.Net.Http.Formatting.dll
+C:\Repo\resolvebot\ResolveBot\bin\System.Web.Http.dll
+C:\Repo\resolvebot\ResolveBot\bin\System.Web.Http.WebHost.dll
+C:\Repo\resolvebot\ResolveBot\bin\WebActivatorEx.dll
+C:\Repo\resolvebot\ResolveBot\bin\Autofac.xml
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Bot.Builder.xml
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.Bot.Connector.xml
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Repo\resolvebot\ResolveBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Repo\resolvebot\ResolveBot\bin\Newtonsoft.Json.xml
+C:\Repo\resolvebot\ResolveBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Repo\resolvebot\ResolveBot\bin\System.Net.Http.Formatting.xml
+C:\Repo\resolvebot\ResolveBot\bin\System.Web.Http.xml
+C:\Repo\resolvebot\ResolveBot\bin\System.Web.Http.WebHost.xml
+C:\Repo\resolvebot\ResolveBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Repo\resolvebot\ResolveBot\obj\Debug\Bot Application.dll
+C:\Repo\resolvebot\ResolveBot\obj\Debug\Bot Application.pdb
+C:\Repo\resolvebot\ResolveBot\obj\Debug\ResolveBot.csprojResolveAssemblyReference.cache
